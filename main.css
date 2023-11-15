@@ -157,6 +157,13 @@
 
     height: 460px;
 
+    text-align: right;
+
+    width: 425px;
+    
+    object-fit: contain;
+
+
   }
 
   
